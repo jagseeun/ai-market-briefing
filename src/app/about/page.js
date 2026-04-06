@@ -15,7 +15,7 @@ export default function About(){
                     </h2>
                     <p className="text-slate-300 text-sm leading-relaxed">
                         AI가 오늘 한국 주식 시장을 분석해서 쉽게 알려주는 서비스에요.
-                        KOSPI, KOSDAQ 지수는 물론 오늘의 주요 중목까지 한눈에 볼 수 있어요.
+                        KOSPI, KOSDAQ 지수는 물론 오늘의 주요 종목까지 한눈에 볼 수 있어요.
                     </p>
                 </div>
                 <div className="bg-card-bg rounded-xl border border-slate-800 p-6">
