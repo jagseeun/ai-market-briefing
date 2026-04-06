@@ -237,7 +237,7 @@ export default function Home() {
                                 item.type === "trend" ? "📈" : "📰"}
                           </span>
                           <p className="text-slate-300 text-sm leading-relaxed">
-                            {item.txt}
+                            {item.text}
                           </p>
                         </li>
                       ))}
